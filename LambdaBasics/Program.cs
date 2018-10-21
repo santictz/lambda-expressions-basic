@@ -15,7 +15,7 @@ namespace LambdaBasics
             numeros.AddRange(new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 });
 
             //Hacemos uso de la expresion lambda
-            List<int> numerosPar = numeros.FindAll(i => (i %2) == 0);
+            List<int> numerosPar = numeros.FindAll(i => (i % 2) == 0);
 
             //Mostramos los números
             foreach(int n in numerosPar)
