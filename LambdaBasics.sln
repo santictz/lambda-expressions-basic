@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaBasics", "LambdaBasics\LambdaBasics.csproj", "{211CE526-9BC4-4A9C-8DBA-44F6596A73E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaBasics2", "LambdaBasics2\LambdaBasics2.csproj", "{5E4FD93E-7747-4BD1-8F18-8FAFEAC4AB2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{211CE526-9BC4-4A9C-8DBA-44F6596A73E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{211CE526-9BC4-4A9C-8DBA-44F6596A73E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{211CE526-9BC4-4A9C-8DBA-44F6596A73E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{211CE526-9BC4-4A9C-8DBA-44F6596A73E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E4FD93E-7747-4BD1-8F18-8FAFEAC4AB2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E4FD93E-7747-4BD1-8F18-8FAFEAC4AB2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E4FD93E-7747-4BD1-8F18-8FAFEAC4AB2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E4FD93E-7747-4BD1-8F18-8FAFEAC4AB2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D41D30D-7942-47DC-A3A8-BF39B3A90869}
+	EndGlobalSection
+EndGlobal
